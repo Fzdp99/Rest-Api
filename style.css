@@ -1,0 +1,45 @@
+body{
+     background-image: url(bgimage.png);
+}
+.content{
+     margin: 100px auto;
+     width: 500px;
+     height: 480px;
+     background-color: rgba(105, 90, 205, 0.267);
+     padding: 20px;
+     border-radius: 10px;
+     border: gray solid 5px;
+}
+.judul{
+     text-align: center;
+     font-family: cursive;
+}
+.clear{
+     clear: right;
+}
+.btmenu{
+     margin: 20px auto;
+}
+.input{
+     margin-top: 30px;
+     visibility: hidden;
+}
+.tampil{
+     margin-top: -290px;
+     visibility: hidden;
+     height: 300px;
+}
+.hapus{
+     margin-top: -300px;
+     visibility: hidden;
+     height: 300px;
+}
+#btnmh{
+     float: right;
+}
+#btnmo{
+     margin-left: 75px;
+}
+.clear{
+     clear: both;
+}
